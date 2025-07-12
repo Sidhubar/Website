@@ -1,0 +1,6 @@
+<<<<<<< SEARCH
+            wavesurfer.load('https://actions.google.com/sounds/v1/alarms/beep_short.ogg');
+=======
+            wavesurfer.load('https://actions.google.com/sounds/v1/alarms/beep_short.ogg'); // Replace with your actual audio API endpoint
+>>>>>>> REPLACE
+

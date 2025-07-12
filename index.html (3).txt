@@ -1,0 +1,6 @@
+<<<<<<< SEARCH
+                                            <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/f09d88f4-2721-4a39-983c-79a1083435bd.png" alt="Modern office with glass walls and city view in the background" class="absolute h-full w-full object-cover">
+=======
+                                            <img src="https://placehold.co/600x450?text=Office+Background" alt="Office background scene" class="absolute h-full w-full object-cover">
+>>>>>>> REPLACE
+

@@ -1,0 +1,6 @@
+<<<<<<< SEARCH
+                    © ${new Date().getFullYear()} AI VideoGen Studio. All rights reserved.
+=======
+                    © ${new Date().getFullYear()} AI VideoGen Studio. All rights reserved.
+>>>>>>> REPLACE
+

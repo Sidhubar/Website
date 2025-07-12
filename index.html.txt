@@ -1,0 +1,5 @@
+<<<<<<< SEARCH
+                    <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/938c00ca-8aff-4952-9680-242bae491667.png" alt="Video generation company logo with a blue and purple gradient and a play button icon" class="h-10 w-10 rounded-lg">
+=======
+                    <img src="https://placehold.co/50x50?text=VideoGen+Logo" alt="AI VideoGen Studio logo" class="h-10 w-10 rounded-lg">
+>>>>>>> REPLACE
